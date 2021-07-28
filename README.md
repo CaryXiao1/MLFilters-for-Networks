@@ -1,0 +1,2 @@
+# MLFilters-for-Networks
+Arduino-Based embedded system that sends information using 5mW red laser diodes. Transmitting Arduino controls laser to send binary information across to a receiving Arduino, which then sends the information to a custom Serial Monitor on the user's computer. To lower error in communication, information is sent using Manchester Encoding and sent through a Machine Learning algorithm before being shown to the user.
